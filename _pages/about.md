@@ -32,6 +32,7 @@ redirect_from:
 
 ## 智能家谱社区
 *挑战杯、互联网+、中国大学生计算机设计大赛获奖，国家级大创*
+
 利用人脸识别技术从合照中采集人员信息，结合合照标签联想家族社交关系、分析社交网络，实现对社群与家谱的可视化衍生。构建一站式社交/历史人文研究平台
 
 - 技术路线：Django+Paddlehub+Pyecharts+百度智能云
@@ -41,6 +42,7 @@ redirect_from:
 
 ## 基于PP-Human的人流量可视化数据大屏
 *intel与百度paddle合作范例、国家鹏程实验室*
+
 使用目标检测与追踪、图像分类、视频分类等计算机视觉技术，结合intel OpenVINO实现CPU异步推理部署加速，实现多模型pipeline在边缘端的良好推理表现，提供服务端与边缘端的差异化模型部署方案。
 
 - 技术路线：PaddlePaddle+OpenVINO+Django+Pyecharts
