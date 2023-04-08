@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "KirigiriSuzumiya(Yifan Bu)"
-description              : "Attempting to understand the world of AI"
+description              : ""
 repository               : "KirigiriSuzumiya/KirigiriSuzumiya.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "卜宜凡"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "East China University of Science and Technology"
+  avatar           : "images/android-chrome-192x192.png"
+  bio              : "华东理工大学"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
