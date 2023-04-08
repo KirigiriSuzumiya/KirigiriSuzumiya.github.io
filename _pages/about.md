@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-现就读于华东理工大学智能与科学，熟悉深度学习模型的应用部署，紧跟深度学习技术发展，开发AI时代的实用程序。熟悉Python及其第三方库，能够快速上手新框架实现AI系统的所需功能。、
+现就读于华东理工大学智能与科学，熟悉深度学习模型的应用部署，紧跟深度学习技术发展，开发AI时代的实用程序。熟悉Python及其第三方库，能够快速上手新框架实现AI系统的所需功能。
 
-现为世界500强公司调研LLM技术，帮助企业实际应用大语言模型提高企业生产力
+现为世界500强公司调研LLM技术并落地应用，帮助企业实际应用大语言模型提高企业生产力
 
 
 
@@ -32,11 +32,10 @@ redirect_from:
 
 ## 智能家谱社区
 *挑战杯、互联网+、中国大学生计算机设计大赛获奖，国家级大创*
-利用人脸识别技术从合照中采集人员信息，结合合照标签联想家族社交关系、分析社交网络，实现对社群与家谱的可视化衍生。构建一站式社交/历史人文研究平台。
+利用人脸识别技术从合照中采集人员信息，结合合照标签联想家族社交关系、分析社交网络，实现对社群与家谱的可视化衍生。构建一站式社交/历史人文研究平台
 
-技术路线：Django+Paddlehub+Pyecharts+百度智能云
-
-作品链接：[Github](https://github.com/KirigiriSuzumiya/family-tree)
+- 技术路线：Django+Paddlehub+Pyecharts+百度智能云
+- 作品链接：[Github](https://github.com/KirigiriSuzumiya/family-tree)
 
 
 
@@ -44,9 +43,8 @@ redirect_from:
 *intel与百度paddle合作范例、国家鹏程实验室*
 使用目标检测与追踪、图像分类、视频分类等计算机视觉技术，结合intel OpenVINO实现CPU异步推理部署加速，实现多模型pipeline在边缘端的良好推理表现，提供服务端与边缘端的差异化模型部署方案。
 
-技术路线：PaddlePaddle+OpenVINO+Django+Pyecharts
-
-作品链接：[Github](https://openi.pcl.ac.cn/boyifan/crowd_vis)
+- 技术路线：PaddlePaddle+OpenVINO+Django+Pyecharts
+- 作品链接：[Github](https://openi.pcl.ac.cn/boyifan/crowd_vis)
 
 
 
@@ -60,8 +58,9 @@ redirect_from:
 Pedestrian flow monitoring system based on Deep learning pipeline
 
 **Yifan Bu**
-- 设计了一款人流量监测系统,该系统运用多种深度学习技术（包括目标检测、目标跟踪、视频分类等）；
-- 设计了针对不同人流量场景的三种不同方案；搭建了以深度学习管道、数据可视化及数据库组成的系统，以达到在人流量密集的公共场所对人流量进行监测的目的。
+- 设计了一款人流量监测系统,该系统运用多种深度学习技术（包括目标检测、目标跟踪、视频分类等）
+- 针对不同人流量场景构建的三种不同方案，涵盖热力图与目标跟踪
+- 搭建了以深度学习管道、数据可视化及数据库组成的系统，以达到在人流量密集的公共场所对人流量进行监测的目的
 </div>
 </div>
 
@@ -74,9 +73,9 @@ Pedestrian flow monitoring system based on Deep learning pipeline
 
 # 📖 教育经历
 - *2020.09 - 2024.06(now)*, 华东理工大学，智能科学与技术
-- *2020.09 - 2024.06 (now)*, 华东理工大学，信息与计算科学（辅修）
+- *2020.09 - 2024.06(now)*, 华东理工大学，信息与计算科学（辅修）
 
 
 # 💬 技术交流与荣誉
-- *2023.02* 飞桨开发者说——人流量检测系统 - AI可视化大屏让城市更安全——飞桨开发者技术专家「卜宜凡」和英特尔AI软件工程师「杨亦诚」
+- *2023.02* 人流量检测系统 - AI可视化大屏让城市更安全——飞桨开发者技术专家「卜宜凡」和英特尔AI软件工程师「杨亦诚」
 - *2022.09-2023.09*, 飞桨开发者技术专家——[卜宜凡](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%8D%9C%E5%AE%9C%E5%87%A1)
