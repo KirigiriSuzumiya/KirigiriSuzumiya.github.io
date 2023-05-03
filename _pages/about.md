@@ -46,9 +46,18 @@ redirect_from:
 使用目标检测与追踪、图像分类、视频分类等计算机视觉技术，结合intel OpenVINO实现CPU异步推理部署加速，实现多模型pipeline在边缘端的良好推理表现，提供服务端与边缘端的差异化模型部署方案。
 
 - 技术路线：PaddlePaddle+OpenVINO+Django+Pyecharts
+
 - 作品链接：[Github](https://openi.pcl.ac.cn/boyifan/crowd_vis)
 
 
+
+## 体育赛事视频识别追踪工具集
+*国家攀岩队合作，赛事直播合作*
+
+基于飞桨深度学习框架的实时行人分析工具PP-Human进行功能扩展的赛事识别追踪工具集，整合各种深度学习模型实现客制化功能（运动员追踪、足球控球检测、滑雪姿态、球员高亮、球类飞行轨迹拟合等）
+
+- 技术路线：PaddlePaddle+OpenCV+TensorRT
+- 作品链接：[Github](https://github.com/KirigiriSuzumiya/Sports_Game_Tracker)
 
 
 
