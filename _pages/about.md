@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently studying in the intelligence and Science major of East China University of Science and Technology, I am familiar with the application deployment of deep learning models, keep up with the development of deep learning technology, and develop practical programs in the AI era. Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
+Currently studying in the intelligence and Science major of East China University of Science and Technology, I am familiar with the application deployment of deep learning models, keep up with the development of deep learning technology, and develop practical programs in the AI era. 
+
+Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
 
 
 
@@ -49,7 +51,8 @@ Currently studying in the intelligence and Science major of East China Universit
 
 
 
-## 体育赛事视频识别追踪工具集
+## Sports video identification tracking tool set
+
 *国家攀岩队合作，赛事直播合作*
 
 基于飞桨深度学习框架的实时行人分析工具PP-Human进行功能扩展的赛事识别追踪工具集，整合各种深度学习模型实现客制化功能（运动员追踪、足球控球检测、滑雪姿态、球员高亮、球类飞行轨迹拟合等）
@@ -86,18 +89,21 @@ Currently studying in the intelligence and Science major of East China Universit
 </div>
 </div>
 
-# 🎖 获奖经历
+# 🎖 Honors and Awards
 - *2022.09* 第八届中国国际“互联网+”大学生创新创业大赛——银奖（上海赛区）
 - *2022.08* 2022年（第15届）中国大学生计算机设计大赛——三等奖 
 - *2022/06* 第十四届上海市计算机应用能力大赛——二等奖
 - *2023/01* 2022年亚太地区大学生数学建模竞赛（APMCM）——二等奖
 
 
-# 📖 教育经历
-- *2020.09 - 2024.06(now)*, 华东理工大学，智能科学与技术
-- *2020.09 - 2024.06(now)*, 华东理工大学，信息与计算科学（辅修）
+# 📖 Educations
+- *2020.09 - 2024.06(now)*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
+- *2020.09 - 2024.06(now)*, East China University of Science and Technology，Information and Computing Science (minor degree)
 
 
-# 💬 技术交流与荣誉
-- *2023.02* 人流量检测系统 - AI可视化大屏让城市更安全——飞桨开发者技术专家「卜宜凡」和英特尔AI软件工程师「杨亦诚」
-- *2022.09-2023.09*, 飞桨开发者技术专家——[卜宜凡](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%8D%9C%E5%AE%9C%E5%87%A1)
+# 💬 Invited Talks
+- *2023.02* Pedestrian flow monitoring system - Visualization based on AI makes the city safer - PaddlePaddle Development Expert "Yifan Bu" and Intel AI software engineer "Yicheng Yang"
+- *2022.09-2023.09*, PaddlePaddle Development Expert——[Yifan Bu](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%8D%9C%E5%AE%9C%E5%87%A1)
+
+
+# 💻 Internships
