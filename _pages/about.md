@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-English|[简体中文](/cn)
+
+language:English / [简体中文](/cn)
+
+# About me
 
 Currently studying in the intelligence and Science major of East China University of Science and Technology, I am familiar with the application deployment of deep learning models, keep up with the development of deep learning technology, and develop practical programs in the AI era. 
 
 Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
 
 
-
+---
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Won the second prize in `2023年（第16届）中国大学生计算机设计大赛`!
@@ -33,7 +36,9 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 - *2023.04*: &nbsp;🎉🎉 The paper was accepted by EI conference CVIDL2023
 - *2023.01*: &nbsp;🎉🎉 Won the second price in `2022年亚太地区大学生数学建模竞赛（APMCM）`！
 
-# 💻 项目经历
+---
+
+# 💻 Professional Experience
 
 ## Intelligent family tree community
 
@@ -42,7 +47,7 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 The face recognition technology is used to collect personnel information from group photos, and the tags are combined to associate family social relationships and analyze social networks, so as to realize the visual derivation of community and family tree. Build a end-to-end social/historical humanities research platform.
 
 - Technical route：Django+Paddlehub+Pyecharts+BaiduAPI
-- Related Paper: [RESEARCH ON THE TRANSFORMATION OF HISTORIC PATTERNS OF OLD SUMMER RESORTS USING SOCIAL NETWORK ANALYSIS: A CASE STUDY OF KULIANG IN FUZHOU, CHINA](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-927-2023)
+- Related Paper: [RESEARCH ON THE TRANSFORMATION OF HISTORIC PATTERNS OF OLD SUMMER RESORTS USING SOCIAL...](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-927-2023)
 - Code：[Github](https://github.com/KirigiriSuzumiya/family-tree)
 
 
@@ -57,7 +62,6 @@ Computer vision technologies such as target detection and tracking, image classi
 - Code：[Github](https://openi.pcl.ac.cn/boyifan/crowd_vis)
 
 
-
 ## Sports video identification tracking tool set
 
 *Cooperate with the national climbing team for the live broadcast of the event*
@@ -67,7 +71,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 - Technical route: PaddlePaddle+OpenCV+TensorRT
 - Code: [Github](https://github.com/KirigiriSuzumiya/Sports_Game_Tracker)
 
-
+---
 
 # 📝 Publications
 
@@ -96,24 +100,49 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2023.07* [2023年（第16届）中国大学生计算机设计大赛——Second Prize](pdf/2023c4.pdf)
-- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——First Prize](pdf/robot1.pdf)
-- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——Secong Prize](pdf/robot2.pdf)
-- *2023.01* [2022年亚太地区大学生数学建模竞赛（APMCM）——Second Prize](pdf/asia.pdf)
-- *2022.09* [第八届中国国际“互联网+”大学生创新创业大赛——Second Prize（Shanghai)](pdf/2022-9.pdf)
-- *2022.08* [2022年（第15届）中国大学生计算机设计大赛——Third Prize](pdf/2022-7.pdf)
-- *2022.06* [第十四届上海市计算机应用能力大赛——二等奖](pdf/2022-5.pdf)
+---
 
+# 💻 Internships
+## China Innovation Center of Roche
+
+*AI Development Intern of the AIDD (Artificial Intelligence, Data and Digital) Dep.*
+
+- Assisted in developing the AI-based Chemical PAtent recognitioN with Digital Automation (cPANDA) system that utilises computer vision technologies to extract and identify chemical formulas from patent data and realize the digitization and automation of preliminary research
+- Fully engaged in the back-end development for the cPANDA system's implementation workflow which involved the segmentation/recognition of chemical structure molecular formulas in PDF images, the extraction of fingerprints for nearly 2000 molecular formulas, and the dimension reduction/clustering/visualization of data.
+- Built (with Redis and Celery) a concurrent system containing 7 workers and 5 queues/priority queues on the Linux server to achieve fair allocation and scheduling of task resources under high concurrency conditions
+- Encapsulated PyTorch and its essential CUDA environment with docker containers to simplify the migration between platforms
+- Used the PostgreSQL database to manage the massive structural molecular data extracted from patents, providing data support for subsequent machine learning statistical analysis.
+
+## Continental Automotive Systems (Shanghai) Co., Ltd
+
+*Software Intern*
+
+-	Researched speech recognition datasets for academic use, tested them on the platforms of major voice service providers (such as Google, Azure and ByteDance) as well as some open source speech recognition projects (such as Whisper and PaddleSpeech), and produced reports on their character error rates (WER) and character error rates (CER)
+-	Screened out suitable speech recognition/speech synthesis service providers (online and offline) and developed the demo of a voice-based intelligent Q&A assistant by integrating large language models (LLM) like ChatGPT, ChatGLM and Alpaca
+-	Investigated the practical applications of the LLM models ChatGPT/ChatGLM/Alpaca and built up a local repository-based natural language document Q&A tool through the Prompt Engineering lang chain
+
+---
+
+# 🎖 Honors and Awards
+
+*I'm so sorry that I can translate these awards correctly into English, all awards mentioned below are widely honored in Chinese College.*
+
+- *2023.07* [2023年（第16届）中国大学生计算机设计大赛——Second Prize](pdf/2023c4.pdf)(national)
+- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——First Prize](pdf/robot1.pdf)(national)
+- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——Second Prize](pdf/robot2.pdf)(national)
+- *2023.01* [2022年亚太地区大学生数学建模竞赛（APMCM）——Second Prize](pdf/asia.pdf)(national)
+- *2022.09* [第八届中国国际“互联网+”大学生创新创业大赛——Second Prize（Shanghai)](pdf/2022-9.pdf)(provincial)
+- *2022.08* [2022年（第15届）中国大学生计算机设计大赛——Third Prize](pdf/2022-7.pdf)(national)
+- *2022.06* [第十四届上海市计算机应用能力大赛——二等奖](pdf/2022-5.pdf)(provincial)
+
+---
 
 # 📖 Educations
 - *2020.09 - 2024.06(now)*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
 - *2020.09 - 2024.06(now)*, East China University of Science and Technology，Information and Computing Science (minor degree)
 
+---
 
 # 💬 Invited Talks
 - *2023.02* Pedestrian flow monitoring system - Visualization based on AI makes the city safer - PaddlePaddle Development Expert "Yifan Bu" and Intel AI software engineer "Yicheng Yang"
 - *2022.09-2023.09*, PaddlePaddle Development Expert——[Yifan Bu](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%8D%9C%E5%AE%9C%E5%87%A1)
-
-
-# 💻 Internships
