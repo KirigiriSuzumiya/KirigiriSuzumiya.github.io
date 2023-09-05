@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-现就读于华东理工大学智能与科学，熟悉深度学习模型的应用部署，紧跟深度学习技术发展，开发AI时代的实用程序。熟悉Python及其第三方库，能够快速上手新框架实现AI系统的所需功能。
-
-现为世界500强公司调研LLM技术并落地应用，帮助企业实际应用大语言模型提高企业生产力
+Currently studying in the intelligence and Science major of East China University of Science and Technology, I am familiar with the application deployment of deep learning models, keep up with the development of deep learning technology, and develop practical programs in the AI era. Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
 
 
 
@@ -56,27 +54,40 @@ redirect_from:
 
 基于飞桨深度学习框架的实时行人分析工具PP-Human进行功能扩展的赛事识别追踪工具集，整合各种深度学习模型实现客制化功能（运动员追踪、足球控球检测、滑雪姿态、球员高亮、球类飞行轨迹拟合等）
 
-- 技术路线：PaddlePaddle+OpenCV+TensorRT
-- 作品链接：[Github](https://github.com/KirigiriSuzumiya/Sports_Game_Tracker)
+- PaddlePaddle+OpenCV+TensorRT
+- Code: [Github](https://github.com/KirigiriSuzumiya/Sports_Game_Tracker)
 
 
 
-# 📝 论文发表
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIDL2023</div><img src='images/CVIDL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Pedestrian flow monitoring system based on Deep learning pipeline
+[Pedestrian flow monitoring system based on Deep learning pipeline](https://ieeexplore.ieee.org/abstract/document/10167254)
 
 **Yifan Bu**
-- 设计了一款人流量监测系统,该系统运用多种深度学习技术（包括目标检测、目标跟踪、视频分类等）
-- 针对不同人流量场景构建的三种不同方案，涵盖热力图与目标跟踪
-- 搭建了以深度学习管道、数据可视化及数据库组成的系统，以达到在人流量密集的公共场所对人流量进行监测的目的
+- Designed a Pedestrian flow monitoring system, which uses a variety of deep learning technologies (including target detection, target tracking, video classification, etc.)
+- Three different solutions for different traffic scenarios, covering heat maps and target tracking
+- Built a system composed of deep learning pipeline, data visualization and database to achieve the purpose of monitoring the flow of people in crowded public places
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIPA2023</div><img src='images/CIPA2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RESEARCH ON THE TRANSFORMATION OF HISTORIC PATTERNS OF OLD SUMMER RESORTS USING SOCIAL NETWORK ANALYSIS: A CASE STUDY OF KULIANG IN FUZHOU, CHINA](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-927-2023)
+
+**Y. N. Lin, C. Yang, Y. X. Chen, Y. F. Bu, C. L. Ping, and B. Y. Cheng**
+- The seemingly randomized distribution of buildings and historical landscapes in Kuliang is a result of social relationship development.
+- The formation of Kuliang's summer resort is correlated with the selection of "central members" in the community and has distinct temporal characteristics.
+- Information technology has great potential for the analysis of the formation process of cultural landscapes. These research findings provide important reference for the protection of cultural heritage and understanding the role of social relationships in shaping cultural landscapes.
 </div>
 </div>
 
 # 🎖 获奖经历
-- *2022.09* 第八届中国国际“互联网+”大学生创新创业大赛——银奖(上海赛区）
+- *2022.09* 第八届中国国际“互联网+”大学生创新创业大赛——银奖（上海赛区）
 - *2022.08* 2022年（第15届）中国大学生计算机设计大赛——三等奖 
 - *2022/06* 第十四届上海市计算机应用能力大赛——二等奖
 - *2023/01* 2022年亚太地区大学生数学建模竞赛（APMCM）——二等奖
