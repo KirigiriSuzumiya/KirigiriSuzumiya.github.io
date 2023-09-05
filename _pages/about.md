@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+English|[简体中文](/cn)
+
 Currently studying in the intelligence and Science major of East China University of Science and Technology, I am familiar with the application deployment of deep learning models, keep up with the development of deep learning technology, and develop practical programs in the AI era. 
 
 Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
@@ -25,39 +27,44 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 
 
 # 🔥 News
-- *2023.04*: &nbsp;🎉🎉 论文被EI会议CVIDL2023录用！
-- *2023.01*: &nbsp;🎉🎉 在2022年亚太地区大学生数学建模竞赛（APMCM）中取得了二等奖！
+- *2023.07*: &nbsp;🎉🎉 Won the second prize in `2023年（第16届）中国大学生计算机设计大赛`!
+- *2023.06*: &nbsp;🎉🎉 Won both first prize and second prize in `二十五届中国机器人及人工智能大赛全国总决赛`！
+- *2023.05*: &nbsp;🎉🎉 [Achieved an overall score of 7.5 in IELTS!](pdf/IELTS.png)
+- *2023.04*: &nbsp;🎉🎉 The paper was accepted by EI conference CVIDL2023
+- *2023.01*: &nbsp;🎉🎉 Won the second price in `2022年亚太地区大学生数学建模竞赛（APMCM）`！
 
 # 💻 项目经历
 
-## 智能家谱社区
-*挑战杯、互联网+、中国大学生计算机设计大赛获奖，国家级大创*
+## Intelligent family tree community
 
-利用人脸识别技术从合照中采集人员信息，结合合照标签联想家族社交关系、分析社交网络，实现对社群与家谱的可视化衍生。构建一站式社交/历史人文研究平台
+🔥 The possibility of LLM collaboration with humanities and history studies is now being explored
 
-- 技术路线：Django+Paddlehub+Pyecharts+百度智能云
-- 作品链接：[Github](https://github.com/KirigiriSuzumiya/family-tree)
+The face recognition technology is used to collect personnel information from group photos, and the tags are combined to associate family social relationships and analyze social networks, so as to realize the visual derivation of community and family tree. Build a end-to-end social/historical humanities research platform.
+
+- Technical route：Django+Paddlehub+Pyecharts+BaiduAPI
+- Related Paper: [RESEARCH ON THE TRANSFORMATION OF HISTORIC PATTERNS OF OLD SUMMER RESORTS USING SOCIAL NETWORK ANALYSIS: A CASE STUDY OF KULIANG IN FUZHOU, CHINA](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-927-2023)
+- Code：[Github](https://github.com/KirigiriSuzumiya/family-tree)
 
 
 
-## 基于PP-Human的人流量可视化数据大屏
-*intel与百度paddle合作范例、国家鹏程实验室*
+## Pedestrian flow monitoring system based on Deep learning pipeline
+*widely honored in the national college student competitions(showing below)*
 
-使用目标检测与追踪、图像分类、视频分类等计算机视觉技术，结合intel OpenVINO实现CPU异步推理部署加速，实现多模型pipeline在边缘端的良好推理表现，提供服务端与边缘端的差异化模型部署方案。
+Computer vision technologies such as target detection and tracking, image classification, and video classification are used, and intel OpenVINO is combined to realize CPU asynchronous reasoning deployment acceleration, realize good reasoning performance of multi-model pipeline at the edge end, and provide differentiated model deployment solutions between the server and the edge end.
 
-- 技术路线：PaddlePaddle+OpenVINO+Django+Pyecharts
-
-- 作品链接：[Github](https://openi.pcl.ac.cn/boyifan/crowd_vis)
+- Technical route：PaddlePaddle+OpenVINO+Django+Pyecharts
+- Related Paper: [Pedestrian flow monitoring system based on Deep learning pipeline](https://ieeexplore.ieee.org/abstract/document/10167254)
+- Code：[Github](https://openi.pcl.ac.cn/boyifan/crowd_vis)
 
 
 
 ## Sports video identification tracking tool set
 
-*国家攀岩队合作，赛事直播合作*
+*Cooperate with the national climbing team for the live broadcast of the event*
 
-基于飞桨深度学习框架的实时行人分析工具PP-Human进行功能扩展的赛事识别追踪工具集，整合各种深度学习模型实现客制化功能（运动员追踪、足球控球检测、滑雪姿态、球员高亮、球类飞行轨迹拟合等）
+Real-time sports event recognition and tracking toolset based on PP-Human, a real-time pedestrian analysis tool using the paddlepaddle deep learning framework, integrating various deep learning models to achieve customized functions (player tracking, football possession detection, ski posture, player highlighting, ball flight trajectory fitting, etc.)
 
-- PaddlePaddle+OpenCV+TensorRT
+- Technical route: PaddlePaddle+OpenCV+TensorRT
 - Code: [Github](https://github.com/KirigiriSuzumiya/Sports_Game_Tracker)
 
 
@@ -90,10 +97,13 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 </div>
 
 # 🎖 Honors and Awards
-- *2022.09* 第八届中国国际“互联网+”大学生创新创业大赛——银奖（上海赛区）
-- *2022.08* 2022年（第15届）中国大学生计算机设计大赛——三等奖 
-- *2022/06* 第十四届上海市计算机应用能力大赛——二等奖
-- *2023/01* 2022年亚太地区大学生数学建模竞赛（APMCM）——二等奖
+- *2023.07* [2023年（第16届）中国大学生计算机设计大赛——Second Prize](pdf/2023c4.pdf)
+- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——First Prize](pdf/robot1.pdf)
+- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——Secong Prize](pdf/robot2.pdf)
+- *2023.01* [2022年亚太地区大学生数学建模竞赛（APMCM）——Second Prize](pdf/asia.pdf)
+- *2022.09* [第八届中国国际“互联网+”大学生创新创业大赛——Second Prize（Shanghai)](pdf/2022-9.pdf)
+- *2022.08* [2022年（第15届）中国大学生计算机设计大赛——Third Prize](pdf/2022-7.pdf)
+- *2022.06* [第十四届上海市计算机应用能力大赛——二等奖](pdf/2022-5.pdf)
 
 
 # 📖 Educations

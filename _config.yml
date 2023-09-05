@@ -127,6 +127,13 @@ defaults:
       layout: default
       author_profile: true
 
+  - scope:
+      path: "cn"
+      type: pages
+    values:
+      layout: default
+      author_profile: true
+
 
 # Sass/SCSS
 sass:
