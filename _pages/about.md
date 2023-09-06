@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-language:English / [简体中文](/cn)
+English / [简体中文](/cn)
 
-# About me
+# 🤗 About me
 
-Currently studying in the intelligence and Science major of East China University of Science and Technology, I am familiar with the application deployment of deep learning models, keep up with the development of deep learning technology, and develop practical programs in the AI era. 
+Majored in Intelligence and Science at East China University of Science and Technology, be familiar with development and deployment of deep learning applications, keeping up with the evolution of deep learning technology, and trying to develop practical applications in the AI area. 
 
 Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
 
@@ -102,10 +102,12 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 ---
 
-# 💻 Internships
+# 🏢 Internships
 ## China Innovation Center of Roche
 
 *AI Development Intern of the AIDD (Artificial Intelligence, Data and Digital) Dep.*
+
+[Certification](pdf/roche.pdf)
 
 - Assisted in developing the AI-based Chemical PAtent recognitioN with Digital Automation (cPANDA) system that utilises computer vision technologies to extract and identify chemical formulas from patent data and realize the digitization and automation of preliminary research
 - Fully engaged in the back-end development for the cPANDA system's implementation workflow which involved the segmentation/recognition of chemical structure molecular formulas in PDF images, the extraction of fingerprints for nearly 2000 molecular formulas, and the dimension reduction/clustering/visualization of data.
@@ -117,6 +119,8 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 *Software Intern*
 
+[Certification](pdf/continental.pdf)
+
 -	Researched speech recognition datasets for academic use, tested them on the platforms of major voice service providers (such as Google, Azure and ByteDance) as well as some open source speech recognition projects (such as Whisper and PaddleSpeech), and produced reports on their character error rates (WER) and character error rates (CER)
 -	Screened out suitable speech recognition/speech synthesis service providers (online and offline) and developed the demo of a voice-based intelligent Q&A assistant by integrating large language models (LLM) like ChatGPT, ChatGLM and Alpaca
 -	Investigated the practical applications of the LLM models ChatGPT/ChatGLM/Alpaca and built up a local repository-based natural language document Q&A tool through the Prompt Engineering lang chain
@@ -125,7 +129,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 # 🎖 Honors and Awards
 
-*I'm so sorry that I can translate these awards correctly into English, all awards mentioned below are widely honored in Chinese College.*
+*I'm so sorry that I can't translate these awards into English correctly, all awards mentioned below are widely honored among Chinese College.*
 
 - *2023.07* [2023年（第16届）中国大学生计算机设计大赛——Second Prize](pdf/2023c4.pdf)(national)
 - *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——First Prize](pdf/robot1.pdf)(national)

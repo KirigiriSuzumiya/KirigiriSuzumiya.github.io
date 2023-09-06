@@ -19,8 +19,8 @@ redirect_from:
 
 [English](/) / 简体中文
 
-# About me
-现就读于华东理工大学智能与科学，熟悉深度学习模型的应用部署，紧跟深度学习技术发展，开发AI时代的实用程序。熟悉Python及其第三方库，能够快速上手新框架实现AI系统的所需功能。
+# 🤗 About me
+现就读于华东理工大学智能科学与技术专业，熟悉深度学习模型的应用部署，紧跟深度学习技术发展，开发AI时代的实用程序。熟悉Python及其第三方库，能够快速上手新框架实现AI系统的所需功能。
 
 现为世界500强公司调研LLM技术并落地应用，帮助企业实际应用大语言模型提高企业生产力
 
@@ -36,7 +36,7 @@ redirect_from:
 
 ---
 
-# 💻 项目经历
+# 💻 Professional Experience
 
 ## 智能家谱社区
 *挑战杯、互联网+、中国大学生计算机设计大赛获奖，国家级大创*
@@ -49,7 +49,7 @@ redirect_from:
 
 
 ## 基于PP-Human的人流量可视化数据大屏
-*intel与百度paddle合作范例、国家鹏程实验室*
+*intel与百度paddle合作范例、中国大学生计算机设计大赛二等奖*
 
 使用目标检测与追踪、图像分类、视频分类等计算机视觉技术，结合intel OpenVINO实现CPU异步推理部署加速，实现多模型pipeline在边缘端的良好推理表现，提供服务端与边缘端的差异化模型部署方案。
 
@@ -60,7 +60,7 @@ redirect_from:
 
 
 ## 体育赛事视频识别追踪工具集
-*国家攀岩队合作，赛事直播合作*
+*国家攀岩队合作，机器人与人工智能大赛一等奖*
 
 基于飞桨深度学习框架的实时行人分析工具PP-Human进行功能扩展的赛事识别追踪工具集，整合各种深度学习模型实现客制化功能（运动员追踪、足球控球检测、滑雪姿态、球员高亮、球类飞行轨迹拟合等）
 
@@ -69,12 +69,12 @@ redirect_from:
 
 ---
 
-# 📝 论文发表
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIDL2023</div><img src='images/CVIDL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Pedestrian flow monitoring system based on Deep learning pipeline
+[Pedestrian flow monitoring system based on Deep learning pipeline](https://ieeexplore.ieee.org/abstract/document/10167254)
 
 **Yifan Bu**
 - 设计了一款人流量监测系统,该系统运用多种深度学习技术（包括目标检测、目标跟踪、视频分类等）
@@ -83,12 +83,27 @@ Pedestrian flow monitoring system based on Deep learning pipeline
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIPA2023</div><img src='images/CIPA2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RESEARCH ON THE TRANSFORMATION OF HISTORIC PATTERNS OF OLD SUMMER RESORTS USING SOCIAL NETWORK ANALYSIS: A CASE STUDY OF KULIANG IN FUZHOU, CHINA](https://doi.org/10.5194/isprs-archives-XLVIII-M-2-2023-927-2023)
+
+**Y. N. Lin, C. Yang, Y. X. Chen, Y. F. Bu, C. L. Ping, and B. Y. Cheng**
+- 鼓岭的建筑和历史景观看似随机分布，其实是社会关系发展的结果。
+- 基于社会网络分析的研究，鼓岭避暑山庄的形成与社区“中心成员”的选择相关，具有明显的时代性特征。
+- 信息技术对文化景观形成过程的分析具有巨大的潜力。这些研究成果为文化遗产保护和理解社会关系在文化景观塑造中的作用提供了重要参考。
+</div>
+</div>
+
 ---
 
-# 💻 实习经历
+# 🏢 Internships
 ## 罗氏（中国）研发中心——China Innovation Center of Roche
 
 *AI Development Intern of the AIDD (Artificial Intelligence, Data and Digital) Dep.*
+
+[Certification](pdf/roche.pdf)
 
 - 协助开发基于人工智能的化学专利识别与数字自动化(cPANDA)系统，利用计算机视觉技术从专利数据中提取和识别化学式，实现初步研究的数字化和自动化。
 - 全面参与cPANDA系统实施流程的后端开发，涉及PDF图像中化学结构分子式的分割/识别，近2000个分子式的指纹提取，数据降维/聚类/可视化。
@@ -100,6 +115,8 @@ Pedestrian flow monitoring system based on Deep learning pipeline
 
 *Software Intern*
 
+[Certification](pdf/continental.pdf)
+
 - 调研学术用语音识别数据集，并在各语音服务提供商（如：google，azure，bytedance）及开源语音识别项目（如：whisper，paddlespeech等）上进行测试，产出wer和cer调研报告
 
 - 基于调研产出的报告，选择语音识别与语音合成提供商（包括在线与本地），结合LLM搭建智慧语音听说问答助手的demo
@@ -108,7 +125,7 @@ Pedestrian flow monitoring system based on Deep learning pipeline
 
 ---
 
-# 🎖 获奖经历
+# 🎖 Honors and Awards
 - *2023.07* [2023年（第16届）中国大学生计算机设计大赛——二等奖](pdf/2023c4.pdf)
 - *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——一等奖](pdf/robot1.pdf)
 - *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——二等奖](pdf/robot2.pdf)
@@ -119,12 +136,12 @@ Pedestrian flow monitoring system based on Deep learning pipeline
 
 ---
 
-# 📖 教育经历
+# 📖 Educations
 - *2020.09 - 2024.06(now)*, 华东理工大学，智能科学与技术
 - *2020.09 - 2024.06(now)*, 华东理工大学，信息与计算科学（辅修）
 
 ---
 
-# 💬 技术交流与荣誉
+# 💬 Invited Talks
 - *2023.02* 人流量检测系统 - AI可视化大屏让城市更安全——飞桨开发者技术专家「卜宜凡」和英特尔AI软件工程师「杨亦诚」
 - *2022.09-2023.09*, 飞桨开发者技术专家——[卜宜凡](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%8D%9C%E5%AE%9C%E5%87%A1)
