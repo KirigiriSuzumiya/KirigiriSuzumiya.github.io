@@ -121,21 +121,21 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 [Certification](pdf/continental.pdf)
 
--	Researched speech recognition datasets for academic use, tested them on the platforms of major voice service providers (such as Google, Azure and ByteDance) as well as some open source speech recognition projects (such as Whisper and PaddleSpeech), and produced reports on their character error rates (WER) and character error rates (CER)
--	Screened out suitable speech recognition/speech synthesis service providers (online and offline) and developed the demo of a voice-based intelligent Q&A assistant by integrating large language models (LLM) like ChatGPT, ChatGLM and Alpaca
--	Investigated the practical applications of the LLM models ChatGPT/ChatGLM/Alpaca and built up a local repository-based natural language document Q&A tool through the Prompt Engineering lang chain
+-	Researched speech recognition datasets for academic use, tested them on the platforms of major voice service providers (such as Google, Azure and ByteDance) as well as some open source speech recognition projects (such as Whisper and PaddleSpeech), and produced reports on their word error rate (WER) and char error rate (CER)
+-	Screened out suitable speech recognition/speech synthesis service providers (online and offline) and developed the demo of a voice-based intelligent assistant by integrating large language models (LLM) like ChatGPT, ChatGLM and Alpaca
+-	Investigated the practical applications of the LLM models ChatGPT/ChatGLM/Alpaca and built up a local knowledge-based natural language document Q&A tool through the Prompt Engineering library lang-chain
 
 ---
 
 # 🏆 Honors and Awards
 
-*I'm so sorry that I may can't translate all these awards into English correctly. However, all awards mentioned below are commonly honored among Chinese College.*
+*I'm so sorry that I may can't translate all these awards into English correctly. However, all awards mentioned below are commonly honored among Chinese Colleges.*
 
 - *2023.07* [2023 16th Chinese Collegiate Computing Competition——Second Prize](pdf/2023c4.pdf)(national)
 - *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——First Prize](pdf/robot1.pdf)(national)
 - *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——Second Prize](pdf/robot2.pdf)(national)
 - *2023.01* [2022 Asia and Pacific Mathematical Contest in Modeling(APMCM)——Second Prize](pdf/asia.pdf)(national)
-- *2022.09* [8th China International "Internet+" College Student Innovation and Entrepreneurship Competition——Second Prize(Shanghai)](pdf/2022-9.pdf)(provincial)
+- *2022.09* [8th China International College Students' "Internet+" Innovation Entrepreneurship Competition——Second Prize(Shanghai)](pdf/2022-9.pdf)(provincial)
 - *2022.08* [2022 15th Chinese Collegiate Computing Competition——Third Prize](pdf/2022-7.pdf)(national)
 - *2022.06* [14th Shanghai Computing Application Ability Competition——Second Prize](pdf/2022-5.pdf)(provincial)
 
