@@ -19,7 +19,7 @@ redirect_from:
 
 [English](/) / 简体中文
 
-# 🤗 About me
+# 🤗 关于
 现就读于华东理工大学智能科学与技术专业，熟悉深度学习模型的应用部署，紧跟深度学习技术发展，开发AI时代的实用程序。熟悉Python及其第三方库，能够快速上手新框架实现AI系统的所需功能。
 
 现为世界500强公司调研LLM技术并落地应用，帮助企业实际应用大语言模型提高企业生产力
@@ -27,7 +27,7 @@ redirect_from:
 
 ---
 
-# 🔥 News
+# 🔥 新闻
 - *2023.07*: &nbsp;🎉🎉 在2023年（第16届）中国大学生计算机设计大赛中取得二等奖！
 - *2023.06*: &nbsp;🎉🎉 在第二十五届中国机器人及人工智能大赛全国总决赛获得两个国家级奖项（一等奖+二等奖）！
 - *2023.05*: &nbsp;🎉🎉 [在雅思考试中取得了7.5的总分！](pdf/IELTS.png)
@@ -36,7 +36,7 @@ redirect_from:
 
 ---
 
-# 💻 Professional Experience
+# 💻 项目经历
 
 ## 智能家谱社区
 *挑战杯、互联网+、中国大学生计算机设计大赛获奖，国家级大创*
@@ -71,7 +71,7 @@ redirect_from:
 
 ---
 
-# 📝 Publications
+# 📝 论文发表
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVIDL2023</div><img src='images/CVIDL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,7 +100,7 @@ redirect_from:
 
 ---
 
-# 🏢 Internships
+# 🏢 实习经历
 ## 罗氏（中国）研发中心——China Innovation Center of Roche
 
 *AI Development Intern of the AIDD (Artificial Intelligence, Data and Digital) Dep.*
@@ -127,7 +127,7 @@ redirect_from:
 
 ---
 
-# 🎖 Honors and Awards
+# 🏆 获奖经历
 - *2023.07* [2023年（第16届）中国大学生计算机设计大赛——二等奖](pdf/2023c4.pdf)
 - *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——一等奖](pdf/robot1.pdf)
 - *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——二等奖](pdf/robot2.pdf)
@@ -138,12 +138,12 @@ redirect_from:
 
 ---
 
-# 📖 Educations
+# 📖 教育经历
 - *2020.09 - 2024.06(now)*, 华东理工大学，智能科学与技术
 - *2020.09 - 2024.06(now)*, 华东理工大学，信息与计算科学（辅修）
 
 ---
 
-# 💬 Invited Talks
+# 💬 技术分享
 - *2023.02* 人流量检测系统 - AI可视化大屏让城市更安全——飞桨开发者技术专家「卜宜凡」和英特尔AI软件工程师「杨亦诚」
 - *2022.09-2023.09*, 飞桨开发者技术专家——[卜宜凡](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%8D%9C%E5%AE%9C%E5%87%A1)

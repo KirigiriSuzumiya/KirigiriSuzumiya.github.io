@@ -30,11 +30,11 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 ---
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Won the second prize in `2023年（第16届）中国大学生计算机设计大赛`!
-- *2023.06*: &nbsp;🎉🎉 Won both first prize and second prize in `二十五届中国机器人及人工智能大赛全国总决赛`！
+- *2023.07*: &nbsp;🎉🎉 Won the second prize in `2023 16th Chinese Collegiate Computing Competition`!
+- *2023.06*: &nbsp;🎉🎉 Won both first prize and second prize in `25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)`！
 - *2023.05*: &nbsp;🎉🎉 [Achieved an overall score of 7.5 in IELTS!](pdf/IELTS.png)
 - *2023.04*: &nbsp;🎉🎉 The paper was accepted by EI conference CVIDL2023
-- *2023.01*: &nbsp;🎉🎉 Won the second price in `2022年亚太地区大学生数学建模竞赛（APMCM）`！
+- *2023.01*: &nbsp;🎉🎉 Won the second price in `2022 Asia and Pacific Mathematic Contest in Modeling(APMCM)`！
 
 ---
 
@@ -127,17 +127,17 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 ---
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
-*I'm so sorry that I can't translate all these awards into English correctly. BTW, all awards mentioned below are widely honored among Chinese College.*
+*I'm so sorry that I may can't translate all these awards into English correctly. However, all awards mentioned below are commonly honored among Chinese College.*
 
-- *2023.07* [2023年（第16届）中国大学生计算机设计大赛——Second Prize](pdf/2023c4.pdf)(national)
-- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——First Prize](pdf/robot1.pdf)(national)
-- *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——Second Prize](pdf/robot2.pdf)(national)
-- *2023.01* [2022年亚太地区大学生数学建模竞赛（APMCM）——Second Prize](pdf/asia.pdf)(national)
-- *2022.09* [第八届中国国际“互联网+”大学生创新创业大赛——Second Prize（Shanghai)](pdf/2022-9.pdf)(provincial)
-- *2022.08* [2022年（第15届）中国大学生计算机设计大赛——Third Prize](pdf/2022-7.pdf)(national)
-- *2022.06* [第十四届上海市计算机应用能力大赛——二等奖](pdf/2022-5.pdf)(provincial)
+- *2023.07* [2023 16th Chinese Collegiate Computing Competition——Second Prize](pdf/2023c4.pdf)(national)
+- *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)--First Prize](pdf/robot1.pdf)(national)
+- *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)--Second Prize](pdf/robot2.pdf)(national)
+- *2023.01* [2022 Asia and Pacific Mathematic Contest in Modeling(APMCM)--Second Prize](pdf/asia.pdf)(national)
+- *2022.09* [8th China International "Internet+" College Student Innovation and Entrepreneurship Competition--Second Prize（Shanghai)](pdf/2022-9.pdf)(provincial)
+- *2022.08* [2022 15th Chinese Collegiate Computing Competition--Third Prize](pdf/2022-7.pdf)(national)
+- *2022.06* [14th Shanghai Computing Application Ability Competition--Second Prize](pdf/2022-5.pdf)(provincial)
 
 ---
 
