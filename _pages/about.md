@@ -22,7 +22,7 @@ English / [简体中文](/cn)
 
 # 🤗 About me
 
-Majored in Intelligence and Science at East China University of Science and Technology, be familiar with development and deployment of deep learning applications, keeping up with the evolution of deep learning technology, and trying to develop practical applications in the AI area. 
+Majored in Intelligent Science and Technology at East China University of Science and Technology, be familiar with development and deployment of deep learning applications, keeping up with the evolution of deep learning technology, and trying to develop practical applications in the AI area. 
 
 Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
 
@@ -42,7 +42,7 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 
 ## Intelligent family tree community
 
-🔥 The possibility of LLM collaboration with humanities and history studies is now being explored
+🔥 The possibility of LLM collaboration with humanities and history studies is now being explored! [try our demo!](http://nenva.com:2333/)
 
 The face recognition technology is used to collect personnel information from group photos, and the tags are combined to associate family social relationships and analyze social networks, so as to realize the visual derivation of community and family tree. Build a end-to-end social/historical humanities research platform.
 
@@ -129,7 +129,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 # 🎖 Honors and Awards
 
-*I'm so sorry that I can't translate these awards into English correctly, all awards mentioned below are widely honored among Chinese College.*
+*I'm so sorry that I can't translate all these awards into English correctly. BTW, all awards mentioned below are widely honored among Chinese College.*
 
 - *2023.07* [2023年（第16届）中国大学生计算机设计大赛——Second Prize](pdf/2023c4.pdf)(national)
 - *2023.06* [第二十五届中国机器人及人工智能大赛全国总决赛——First Prize](pdf/robot1.pdf)(national)
