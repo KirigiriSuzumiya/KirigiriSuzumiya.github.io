@@ -132,12 +132,12 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 *I'm so sorry that I may can't translate all these awards into English correctly. However, all awards mentioned below are commonly honored among Chinese College.*
 
 - *2023.07* [2023 16th Chinese Collegiate Computing Competition——Second Prize](pdf/2023c4.pdf)(national)
-- *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)--First Prize](pdf/robot1.pdf)(national)
-- *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)--Second Prize](pdf/robot2.pdf)(national)
-- *2023.01* [2022 Asia and Pacific Mathematic Contest in Modeling(APMCM)--Second Prize](pdf/asia.pdf)(national)
-- *2022.09* [8th China International "Internet+" College Student Innovation and Entrepreneurship Competition--Second Prize（Shanghai)](pdf/2022-9.pdf)(provincial)
-- *2022.08* [2022 15th Chinese Collegiate Computing Competition--Third Prize](pdf/2022-7.pdf)(national)
-- *2022.06* [14th Shanghai Computing Application Ability Competition--Second Prize](pdf/2022-5.pdf)(provincial)
+- *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——First Prize](pdf/robot1.pdf)(national)
+- *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——Second Prize](pdf/robot2.pdf)(national)
+- *2023.01* [2022 Asia and Pacific Mathematic Contest in Modeling(APMCM)——Second Prize](pdf/asia.pdf)(national)
+- *2022.09* [8th China International "Internet+" College Student Innovation and Entrepreneurship Competition——Second Prize(Shanghai)](pdf/2022-9.pdf)(provincial)
+- *2022.08* [2022 15th Chinese Collegiate Computing Competition——Third Prize](pdf/2022-7.pdf)(national)
+- *2022.06* [14th Shanghai Computing Application Ability Competition——Second Prize](pdf/2022-5.pdf)(provincial)
 
 ---
 
