@@ -34,7 +34,7 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 - *2023.06*: &nbsp;🎉🎉 Won both first prize and second prize in `25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)`！
 - *2023.05*: &nbsp;🎉🎉 [Achieved an overall score of 7.5 in IELTS!](pdf/IELTS.png)
 - *2023.04*: &nbsp;🎉🎉 The paper was accepted by EI conference CVIDL2023
-- *2023.01*: &nbsp;🎉🎉 Won the second price in `2022 Asia and Pacific Mathematic Contest in Modeling(APMCM)`！
+- *2023.01*: &nbsp;🎉🎉 Won the second price in `2022 Asia and Pacific Mathematical Contest in Modeling(APMCM)`！
 
 ---
 
@@ -134,7 +134,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 - *2023.07* [2023 16th Chinese Collegiate Computing Competition——Second Prize](pdf/2023c4.pdf)(national)
 - *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——First Prize](pdf/robot1.pdf)(national)
 - *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——Second Prize](pdf/robot2.pdf)(national)
-- *2023.01* [2022 Asia and Pacific Mathematic Contest in Modeling(APMCM)——Second Prize](pdf/asia.pdf)(national)
+- *2023.01* [2022 Asia and Pacific Mathematical Contest in Modeling(APMCM)——Second Prize](pdf/asia.pdf)(national)
 - *2022.09* [8th China International "Internet+" College Student Innovation and Entrepreneurship Competition——Second Prize(Shanghai)](pdf/2022-9.pdf)(provincial)
 - *2022.08* [2022 15th Chinese Collegiate Computing Competition——Third Prize](pdf/2022-7.pdf)(national)
 - *2022.06* [14th Shanghai Computing Application Ability Competition——Second Prize](pdf/2022-5.pdf)(provincial)
