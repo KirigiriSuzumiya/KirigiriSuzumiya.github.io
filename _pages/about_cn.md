@@ -28,6 +28,7 @@ redirect_from:
 ---
 
 # 🔥 新闻
+- *2024.01*：&nbsp;🎉🎉 作为Service Engineering Intern加入了特斯拉上海超级工厂！
 - *2023.07*: &nbsp;🎉🎉 在2023年（第16届）中国大学生计算机设计大赛中取得二等奖！
 - *2023.06*: &nbsp;🎉🎉 在第二十五届中国机器人及人工智能大赛全国总决赛获得两个国家级奖项（一等奖+二等奖）！
 - *2023.05*: &nbsp;🎉🎉 [在雅思考试中取得了7.5的总分！](pdf/IELTS.png)
@@ -101,14 +102,24 @@ redirect_from:
 ---
 
 # 🏢 实习经历
+## 特斯拉（上海）有限公司——Tesla（Shanghai）Ltd
+
+*Service Engineering Intern*
+
+*2024/01/24-now*
+
+- 待更新
+
 ## 罗氏（中国）研发中心——China Innovation Center of Roche
 
 *AI Development Intern of the AIDD (Artificial Intelligence, Data and Digital) Dep.*
 
+*2023/07/03-2024/01/19*
+
 [Certification](pdf/roche.pdf)
 
-- 协助开发基于人工智能的化学专利识别与数字自动化(cPANDA)系统，利用计算机视觉技术从专利数据中提取和识别化学式，实现初步研究的数字化和自动化。
-- 全面参与cPANDA系统实施流程的后端开发，涉及PDF图像中化学结构分子式的分割/识别，近2000个分子式的指纹提取，数据降维/聚类/可视化。
+- 协助开发基于人工智能的化学专利识别与数字自动化系统，利用计算机视觉技术从专利数据中提取和识别化学式，实现初步研究的数字化和自动化。
+- 全面参与系统实施流程的后端开发，涉及PDF图像中化学结构分子式的分割/识别，近2000个分子式的指纹提取，数据降维/聚类/可视化。
 - 在Linux服务器上(使用Redis和Celery)构建一个包含7个worker和5个queue/priority queue的并发系统，实现高并发条件下任务资源的公平分配和调度
 - 用docker容器封装PyTorch及其基本CUDA环境，以简化平台之间的迁移
 - 使用PostgreSQL数据库管理从专利中提取的海量结构分子数据，为后续机器学习统计分析提供数据支持。
@@ -116,6 +127,8 @@ redirect_from:
 ## 德国大陆汽车集团——Continental Automotive Systems (Shanghai) Co., Ltd
 
 *Software Intern*
+
+*2023/01/09-2023/05/08*
 
 [Certification](pdf/continental.pdf)
 

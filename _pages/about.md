@@ -30,6 +30,7 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 ---
 
 # 🔥 News
+- *2024.01*：&nbsp;🎉🎉 Joined TESLA as Service Engineering Intern!
 - *2023.07*: &nbsp;🎉🎉 Won the second prize in `2023 16th Chinese Collegiate Computing Competition`!
 - *2023.06*: &nbsp;🎉🎉 Won both first prize and second prize in `25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)`！
 - *2023.05*: &nbsp;🎉🎉 [Achieved an overall score of 7.5 in IELTS!](pdf/IELTS.png)
@@ -103,14 +104,24 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ---
 
 # 🏢 Internships
+## Tesla（Shanghai）Ltd
+
+*Service Engineering Intern*
+
+*2024/01/24-now*
+
+- waiting for update
+
 ## China Innovation Center of Roche
 
 *AI Development Intern of the AIDD (Artificial Intelligence, Data and Digital) Dep.*
 
+*2023/07/03-2024/01/19*
+
 [Certification](pdf/roche.pdf)
 
-- Assisted in developing the AI-based Chemical PAtent recognitioN with Digital Automation (cPANDA) system that utilises computer vision technologies to extract and identify chemical formulas from patent data and realize the digitization and automation of preliminary research
-- Fully engaged in the back-end development for the cPANDA system's implementation workflow which involved the segmentation/recognition of chemical structure molecular formulas in PDF images, the extraction of fingerprints for nearly 2000 molecular formulas, and the dimension reduction/clustering/visualization of data.
+- Assisted in developing a system that utilises computer vision technologies to extract and identify chemical formulas from patent data and realize the digitization and automation of preliminary research
+- Fully engaged in the back-end development for the mentioned system's implementation workflow which involved the segmentation/recognition of chemical structure molecular formulas in PDF images, the extraction of fingerprints for nearly 2000 molecular formulas, and the dimension reduction/clustering/visualization of data.
 - Built (with Redis and Celery) a concurrent system containing 7 workers and 5 queues/priority queues on the Linux server to achieve fair allocation and scheduling of task resources under high concurrency conditions
 - Encapsulated PyTorch and its essential CUDA environment with docker containers to simplify the migration between platforms
 - Used the PostgreSQL database to manage the massive structural molecular data extracted from patents, providing data support for subsequent machine learning statistical analysis.
@@ -118,6 +129,8 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ## Continental Automotive Systems (Shanghai) Co., Ltd
 
 *Software Intern*
+
+*2023/01/09-2023/05/08*
 
 [Certification](pdf/continental.pdf)
 
