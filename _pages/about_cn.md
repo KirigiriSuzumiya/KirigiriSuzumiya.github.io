@@ -106,7 +106,10 @@ redirect_from:
 
 *2024/01/24-now*
 
-- 待更新
+[Certification](pdf/tesla.pdf)
+
+- 负责基于k8s数据对接平台的开发与维护，使用机器学习从海量物联网数据中高效诊断潜在危险，并部署到k8s集群中。
+- 在保证原有功能的前提下，以多种方式优化性能，将任务耗时缩短30倍以上。
 
 ## 罗氏（中国）研发中心——China Innovation Center of Roche
 

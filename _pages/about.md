@@ -110,6 +110,8 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 *2024/01/24-now*
 
+[Certification](pdf/tesla.pdf)
+
 - waiting for update
 
 ## China Innovation Center of Roche
