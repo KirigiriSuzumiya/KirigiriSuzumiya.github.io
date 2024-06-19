@@ -112,7 +112,11 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 [Certification](pdf/tesla.pdf)
 
-- waiting for update
+- Responsible for the development and maintenance of the internal K8S data platform, using machine learning algorithms to efficiently diagnose potential dangers from massive IoT data and deploy it to production cluster.
+
+- Optimize performance in a variety of ways to reduce task time by more than 30 times while maintaining the original functionality.
+
+- Develop a data storage and encryption platform for accident proof(To G)
 
 ## China Innovation Center of Roche
 
