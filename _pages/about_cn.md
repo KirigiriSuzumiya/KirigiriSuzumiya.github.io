@@ -99,7 +99,12 @@ redirect_from:
 
 ---
 
-# 🏢 实习经历
+# 🏢 工作经历
+## 深信服科技股份有限公司
+
+- 负责数据管理平台开发 golang+python，串联数据采集、标注、可视化、导出全流程。补齐开源解决方案中的数据管理短板；
+- 集群可视化监控平台开发，可视化容器级 GPU 占用，并使用 Grafana 及 OpenTelemetry 采集微服务trace以追踪线上服务问题。
+
 ## 特斯拉（上海）有限公司——Tesla（Shanghai）Ltd
 
 *Service Engineering Intern*

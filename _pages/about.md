@@ -39,7 +39,7 @@ Familiar with Python and its third-party libraries, able to quickly get started 
 
 ---
 
-# 💻 Professional Experience
+# 💻 Projects
 
 ## Intelligent family tree community
 
@@ -103,12 +103,22 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 ---
 
-# 🏢 Internships
+# 🏢 Professional Experience
+## SangFor Technologies Inc
+
+*Backend development Engineer*
+
+*2024/07/08-now*
+
+- Development of the Data Management Platform using Golang and Python, integrating the entire workflow from data collection, annotation, visualization, to export processes. Addressing data management shortcomings in open-source solutions.
+
+- Development of a Cluster Visualization Monitoring Platform, providing visual representation of container-level GPU utilization. Utilizing Grafana and OpenTelemetry for the collection of microservice traces to diagnose and troubleshoot live service issues.
+
 ## Tesla（Shanghai）Ltd
 
 *Service Engineering Intern*
 
-*2024/01/24-now*
+*2024/01/24-2024/07/06*
 
 [Certification](pdf/tesla.pdf)
 
