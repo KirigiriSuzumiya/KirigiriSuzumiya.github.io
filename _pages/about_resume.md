@@ -18,13 +18,17 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-English(/) / [简体中文](/cn)
-
 # 🤗 About me
 
 Majored in Intelligent Science and Technology at East China University of Science and Technology, be familiar with development and deployment of deep learning applications, keeping up with the evolution of deep learning technology, and trying to develop practical applications in the AI area. 
 
 Familiar with Python and its ecosystem, able to quickly get started with the new framework to achieve the required functions of AI systems.
+
+# 📖 Educations
+- *2020.09 - 2024.06*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
+- *2020.09 - 2024.06*, East China University of Science and Technology，Information and Computing Science (minor degree)
+
+---
 
 # 💻 Projects
 
@@ -116,8 +120,6 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 
 # 🏆 Honors and Awards
 
-*I'm so sorry that I may can't translate all these awards into English correctly. However, all awards mentioned below are commonly honored among Chinese Colleges.*
-
 - *2023.07* [2023 16th Chinese Collegiate Computing Competition——Second Prize](pdf/2023c4.pdf)(national)
 - *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——First Prize](pdf/robot1.pdf)(national)
 - *2023.06* [25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)——Second Prize](pdf/robot2.pdf)(national)
@@ -126,8 +128,5 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 - *2022.08* [2022 15th Chinese Collegiate Computing Competition——Third Prize](pdf/2022-7.pdf)(national)
 - *2022.06* [14th Shanghai Computing Application Ability Competition——Second Prize](pdf/2022-5.pdf)(provincial)
 
----
 
-# 📖 Educations
-- *2020.09 - 2024.06(now)*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
-- *2020.09 - 2024.06(now)*, East China University of Science and Technology，Information and Computing Science (minor degree)
+

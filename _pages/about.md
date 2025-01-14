@@ -104,7 +104,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ---
 
 # 🏢 Professional Experience
-## SangFor Technologies Inc
+## SangFor Technologies Inc - embodied ai devices
 
 *Backend development Engineer*
 
@@ -171,8 +171,8 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ---
 
 # 📖 Educations
-- *2020.09 - 2024.06(now)*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
-- *2020.09 - 2024.06(now)*, East China University of Science and Technology，Information and Computing Science (minor degree)
+- *2020.09 - 2024.06*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
+- *2020.09 - 2024.06*, East China University of Science and Technology，Information and Computing Science (minor degree)
 
 ---
 
