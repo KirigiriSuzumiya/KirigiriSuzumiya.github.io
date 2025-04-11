@@ -26,10 +26,10 @@ Majored in Intelligent Science and Technology at East China University of Scienc
 
 Familiar with Python and its third-party libraries, able to quickly get started with the new framework to achieve the required functions of AI systems.
 
-
 ---
 
 # 🔥 News
+- *2024.07*：&nbsp;🎉🎉 Joined SangFor as Backend Development Engineer!
 - *2024.01*：&nbsp;🎉🎉 Joined TESLA as Service Engineering Intern!
 - *2023.07*: &nbsp;🎉🎉 Won the second prize in `2023 16th Chinese Collegiate Computing Competition`!
 - *2023.06*: &nbsp;🎉🎉 Won both first prize and second prize in `25th Chinese Robotic and Artificial Intelligence Competition(CRAIC)`！
@@ -104,7 +104,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ---
 
 # 🏢 Professional Experience
-## SangFor Technologies Inc - embodied ai devices
+## SangFor Technologies Inc
 
 *Backend development Engineer*
 

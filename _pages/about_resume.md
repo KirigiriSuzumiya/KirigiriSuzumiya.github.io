@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /resume/
+  - /resume.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -23,6 +23,30 @@ redirect_from:
 Majored in Intelligent Science and Technology at East China University of Science and Technology, be familiar with development and deployment of deep learning applications, keeping up with the evolution of deep learning technology, and trying to develop practical applications in the AI area. 
 
 Familiar with Python and its ecosystem, able to quickly get started with the new framework to achieve the required functions of AI systems.
+
+---
+
+# 🔥 Skills
+
+- Backend Programme
+  - Python
+  - Golang
+- Frontend Programme & design
+  - JavaScript
+    - React
+  - Ant Design
+- Cloud Native
+  - K8s
+  - helm
+  - grafana
+  - prometheus
+  - opentelemetry
+  - ...
+
+- Language
+  - English [IELTS 7.5](pdf/IELTS.png)
+
+---
 
 # 📖 Educations
 - *2020.09 - 2024.06*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
@@ -66,9 +90,9 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ---
 
 # 🏢 Professional Experience
-## SangFor Technologies Inc - embodied ai devices
+## SangFor Technologies Inc
 
-*Backend development Engineer*
+*Backend Development Engineer*
 
 *2024/07/08-now*
 
