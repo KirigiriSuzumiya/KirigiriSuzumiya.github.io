@@ -171,6 +171,7 @@ Real-time sports event recognition and tracking toolset based on PP-Human, a rea
 ---
 
 # 📖 Educations
+- *2025.09 - now*, City University of Hong Kong, Artificial Intellgence (Master degree) 
 - *2020.09 - 2024.06*, East China University of Science and Technology，Intelligent Science and Technology (major degree)
 - *2020.09 - 2024.06*, East China University of Science and Technology，Information and Computing Science (minor degree)
 
